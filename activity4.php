@@ -1,6 +1,6 @@
 <?php
 
-// Migs
+// Ace
 
 /*
 Basic Information:
